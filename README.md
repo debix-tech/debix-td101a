@@ -25,7 +25,7 @@ RoHS
 
 ## Specification:
 | DEBIX TD101A |  |
-|--------------|--|
+|:--------------|--|
 | LCD Size     | 10.1 inch (Diagonal) |
 | Driver Element | a-Si TFT action matrix |
 | Resolution   | 1280 x 800 |
